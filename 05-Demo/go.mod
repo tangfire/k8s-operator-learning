@@ -1,4 +1,4 @@
-module k8s-operator-learning
+module k8s-operator-learning/05-Demo
 
 go 1.24.0
 
@@ -6,7 +6,6 @@ require (
 	k8s.io/api v0.34.1
 	k8s.io/apimachinery v0.34.1
 	k8s.io/client-go v0.34.1
-	k8s.io/sample-controller v0.34.1
 )
 
 require (
